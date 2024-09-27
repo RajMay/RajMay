@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ranjanaburman18@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/RAJESH%20BURMAN/Downloads/resume%20rajesh.pdf](file:///C:/Users/RAJESH%20BURMAN/Downloads/resume%20rajesh.pdf)
+- 📄 Know about my experiences
 
 - ⚡ Fun fact **I have two solutions to every problems.**
 
