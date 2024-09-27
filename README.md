@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajesh Burman</h1>
-<h3 align="center">Student at Indian Institute of Technology, Madras |. Software Engineer undergrad | Frontend developer</h3>
+<h3 align="center">Student at Indian Institute of Technology, Madras |. Software Engineer undergrad | backend intern || ML enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajmay&label=Profile%20views&color=0e75b6&style=flat" alt="rajmay" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/1196mayb" target="blank"><img src="https://img.shields.io/twitter/follow/1196mayb?logo=twitter&style=for-the-badge" alt="1196mayb" /></a> </p>
 
-- 🔭 I’m currently working on **Digital ticketing app**
+- 🔭 I’m currently working on **ML models**
 
-- 🌱 I’m currently learning **Javascript, java.**
+- 🌱 I’m currently learning **Jquery .**
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/htmo.html](http://127.0.0.1:5500/htmo.html)
+- 👨‍💻 All of my projects are available at _____
 
 - 💬 Ask me about **python , react**
 
