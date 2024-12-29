@@ -7,11 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/1196mayb" target="blank"><img src="https://img.shields.io/twitter/follow/1196mayb?logo=twitter&style=for-the-badge" alt="1196mayb" /></a> </p>
 
-- 🔭 I’m currently working on **ML models**
 
-- 🌱 I’m currently learning **Jquery .**
 
-- 👨‍💻 All of my projects are available at _____
+
+
 
 - 💬 Ask me about **python , react**
 
